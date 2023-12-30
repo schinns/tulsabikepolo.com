@@ -1,0 +1,4 @@
+baseURL = 'https://tulsabikepolo.netlify.app/'
+languageCode = 'en-us'
+title = 'Tulsa Bike Polo Club'
+theme = 'etch'
