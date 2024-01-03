@@ -18,7 +18,7 @@ of the game as well as treat other players, spectators, and property respectfull
 ### Safer Spaces Guidelines
 * Respect people’s background and identities, including their names and pronouns.
 * Be thoughtful about the language you use.
-* If you believe someone has violated our COC, feel free to speak up and/or inform a club
+* If you believe someone has violated our CoC, feel free to speak up and/or inform a club
 member.
 * Allow others to call you in if they believe you may have acted in violation.
 * Allow others to represent and speak for themselves – never ask or expect someone to
